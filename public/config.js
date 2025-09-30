@@ -15,7 +15,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_WALLETCONNECT_PROJECT_ID": "2139b3f6465aea66b2c54cafe223a13f",
   "VITE_APP_NAME": "zenith",
   "VITE_APP_DESCRIPTION": "Orderly Trading Application",
-  "VITE_HAS_PRIMARY_LOGO": "false",
+  "VITE_HAS_PRIMARY_LOGO": "true",
   "VITE_HAS_SECONDARY_LOGO": "true",
   "VITE_ENABLED_MENUS": "Trading,Portfolio,Markets,Vaults,Leaderboard,Rewards",
   "VITE_CUSTOM_MENUS": "",
